@@ -15,7 +15,7 @@
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
             <div class="card shadow-sm">
-                <img src="{{url('assets/images/medblog_1.avif')}}" class="col rounded" alt="Paris" width="100%" height="236">
+                <img src="{{asset('assets/images/medblog_1.avif')}}" class="col rounded" alt="Paris" width="100%" height="236">
 
 
                 <div class="card-body">
@@ -29,7 +29,7 @@
         </div>
         <div class="col">
             <div class="card shadow-sm">
-                <img src="{{ url('assets/images/old_pacient.avif') }}" class="col rounded" alt="Paris" width="100%" height="236">
+                <img src="{{ asset('assets/images/old_pacient.avif') }}" class="col rounded" alt="Paris" width="100%" height="236">
                 <div class="card-body">
                     <p class="card-text">
                     <h5><a href = "/ingrijiri-paliative">Ingrijiri paliative la domiciliu</a></h5>
@@ -42,7 +42,7 @@
         </div>
         <div class="col">
             <div class="card shadow-sm">
-                <img src="{{ url('assets/images/medblog_4.avif') }}" class="col rounded" alt="Paris" width="100%" height="236">
+                <img src="{{ asset('assets/images/medblog_4.avif') }}" class="col rounded" alt="Paris" width="100%" height="236">
                 <div class="card-body">
                     <p class="card-text">
                     <h5><a href = "/pentru-pacienti">Pentru pacienti</a></h5>
@@ -60,28 +60,28 @@
 <div class="row indent_sponsors_label">
     <div class="col ">
 
-        <a href="https://vsa.cnam.gov.md/app/verify/">
+        <a href="http://vsa.cnam.gov.md/app/verify/">
             <img src="{{ asset('assets/images/cnam.jpeg') }}"  alt="cnam">
         </a>
     </div>
 
     <div class="col ">
 
-        <a href="https://www.alvogen.ro/">
+        <a href="http://www.alvogen.ro/">
             <img src="{{ asset('assets/images/alogen.jpeg') }}"  alt="cnam">
         </a>
     </div>
 
     <div class="col ">
 
-        <a href="https://www.cmf-balti.ms.md/">
+        <a href="http://www.cmf-balti.ms.md/">
             <img src="{{ asset('assets/images/balti.jpeg') }}"  alt="cnam">
         </a>
     </div>
 
     <div class="col ">
 
-        <a href="https://cmdb.md/">
+        <a href="http://cmdb.md/">
             <img src="{{ asset('assets/images/col-med.jpeg') }}"  alt="cnam">
         </a>
     </div>
