@@ -45,7 +45,7 @@
                 <img src="{{ asset('assets/images/medblog_4.avif') }}" class="col rounded" alt="Paris" width="100%" height="236">
                 <div class="card-body">
                     <p class="card-text">
-                    <h5><a href = "/3/pentru-pacienti">Pentru pacienti</a></h5>
+                    <h5><a href = "/pentru-pacienti">Pentru pacienti</a></h5>
                     <hr>
                     Beneficiarii pentru îngrijirea comunitară sunt pacienții cu maladii cronice în stadiu avansat şi/sau după intervenţii chirurgicale mari.
                     </p>
