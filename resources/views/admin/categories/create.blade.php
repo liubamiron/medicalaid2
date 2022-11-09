@@ -34,11 +34,11 @@
                         @error('title')
                             <div class="text-danger">It's necessary to be a title</div>
                                  @enderror
-                        </div>             
+                        </div>
                         <div class="form-group">
                             <input type="submit" class="btn btn-primary" value="Submit">
                         </div>
-                       
+
                     </form>
                 </div>
 

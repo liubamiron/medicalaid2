@@ -67,7 +67,7 @@
                     </div>
                 </div>
                 <!--                    <button type="submit" class="btn btn-primary">Submit</button>-->
-                <div class="col-1">
+                <div class="col-2">
                     <a href="{{ route('admin.post.create') }}" class="btn btn-block btn-primary">Add</a>
                 </div>
             </div>
